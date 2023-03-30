@@ -130,7 +130,7 @@ const Navbar = () => {
           backgroundColor={background}
         >
           {/* CLOSE ICON */}
-          <Box display="flex" justifyContent="flex-end" p="rem">
+          <Box display="flex" justifyContent="flex-end" p="1rem">
             <IconButton
               onClick={() => setIsMobileMenuToggled(!isMobileMenuToggled)}
             >
