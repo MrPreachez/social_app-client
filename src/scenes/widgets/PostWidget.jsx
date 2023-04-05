@@ -1,11 +1,13 @@
+import {
+  ChatBubbleOutlineOutlined,
+  FavoriteBorderOutlined,
+  FavoriteOutlined,
+  ShareOutlined,
+} from "@mui/icons-material";
 
 
 const PostWidget = () => {
-
-return(
-    <>
-    </>
-)
-}
+  return <></>;
+};
 
 export default PostWidget;
